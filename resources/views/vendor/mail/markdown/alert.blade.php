@@ -1,0 +1,1 @@
+{{ $slot }} : {{ $prefix}} {{ $alert_type }}
